@@ -34,7 +34,7 @@ public class sub1_ClassTest {
 		
 		//account ª˝º∫
 		Account kb = new Account("±ππŒ¿∫«‡", "1-12-12345", "±Ë¿ØΩ≈", 10000);
-		
+		kb.balance--;
 		//kb.bank = "±ππŒ¿∫«‡";
 		//kb.id = "1-12-12345";
 		//kb.name = "±Ë¿ØΩ≈";

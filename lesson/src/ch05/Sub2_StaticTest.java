@@ -16,14 +16,16 @@ package ch05;
  * 
  */
 public class Sub2_StaticTest {
+	
 	public static void main(String[] args) {
 		
 		Increment inc1 = new Increment();
 		Increment inc2 = new Increment();
 		Increment inc3 = new Increment();
 		
+		//정적변수, 정적메서드는 클래스 이름으로 직접 참조.
 		Increment.num2 = 0;
-		
+		Increment.add();
 		
 	}
 	
