@@ -2,7 +2,9 @@ package ch07;
 
 public class P168 {
 	public static void main(String[] args) {
+		
 		P166 stu = new P166("jenny", 2, "software");
+		
 		System.out.println(stu.name);
 		System.out.println(stu.grade);
 		System.out.println(stu.department);
@@ -16,7 +18,12 @@ public class P168 {
 		
 		
 		//扁夯 积己磊肺 按眉 积己
-		P166 stu0 = new P166();
-		}
+		//P166 stu0 = new P166();
+		//System.out.println(stu0);
+		
+		
+		
+		
 
+}
 }

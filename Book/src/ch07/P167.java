@@ -9,7 +9,7 @@ public class P167 {
 		System.out.println(stu.grade);
 		System.out.println(stu.department);
 		
-		s
+		
 	}
 
 }

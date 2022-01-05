@@ -6,15 +6,28 @@ public class P166 {
 	int grade;//학년
 	String department;//학과
 	
-		P166(String n, int g, String d){
-			name = n;
-			grade = g;
-			department = d;
-		}
-		//기본 생성자
+		
+		//1번 생성자
 		P166(){
 			
 		}
+		//2번 생성자
+		P166(String n){
+			name = n;
+		}
+		//3번생성자
+		P166(String n, int g){
+			name = n;
+			grade = g;
+			
+		}
+		//4번 생성자
+		P166(String n, int g, String d){
+			name = n;
+			grade =g;
+			department =d;
+		}
+		//학과와 학
 
 
 	
