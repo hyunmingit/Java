@@ -9,7 +9,7 @@ public class Bulb {
 	
 	
 	
-	public void switchoff(){
+	public void lightoff(){
 		System.out.println("light off...");
 	}
 	
