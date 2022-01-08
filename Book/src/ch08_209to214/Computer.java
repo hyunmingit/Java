@@ -14,6 +14,9 @@ public class Computer {
 		
 		
 		gc = new Amd();
+		gc.process();
+		
+		
 		
 	}
 
