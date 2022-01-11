@@ -2,7 +2,7 @@ package ch09;
 /*
  * 날짜 2022.01.10
  * 이름 장현민
- * 내용 자바 Object 내장클래스 실습 p284
+ * 내용 자바 wrapper 내장클래스 실습 p284
  */
 public class Sub03_Wrapper {
 	public static void main(String[] args) {
@@ -16,6 +16,9 @@ public class Sub03_Wrapper {
 		Integer w1 = var1;
 		Double w2 = var2;
 		Boolean w3 = var3;
+		System.out.println("w1 : "+w1);
+		System.out.println("w2 : "+w2);
+		System.out.println("w3 : "+w3);
 		//문자열 >> 기본타입 변환
 		String str1 = "1";
 		String str2 = "2.3";
