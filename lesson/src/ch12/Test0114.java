@@ -13,7 +13,7 @@ import java.util.Scanner;
 
 public class Test0114 {public static void main(String[] args) {
 	
-	final String Host = "jdbc:mysql://54.180.160.240:3306/jhmcos13";
+	final String Host = "jdbc:mysql://chhak.or.kr/jhmcos13";
 	final String User = "jhmcos13";
 	final String Pass = "1234";
 	
